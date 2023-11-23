@@ -2,6 +2,15 @@
 Changelog for package imu_sensor_broadcaster
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Create ParamListener and get parameters on configure for IMU sensor
+  broadcaster
+  fix: Create ParamListener and get params on configura imu sensor broadcaster
+  Revert "test: Declare parameters for imu sensor broadcaster"
+  This reverts commit 743c013f3c5c24bd9693038e806795f7aad0a31a.
+* Contributors: YueErro
+
 2.26.0 (2023-10-03)
 -------------------
 

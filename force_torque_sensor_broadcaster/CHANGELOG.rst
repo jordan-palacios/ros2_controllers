@@ -2,6 +2,12 @@
 Changelog for package force_torque_sensor_broadcaster
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Create ParamListener and get parameters on configure for FT Sensor
+  broadcaster
+* Contributors: Noel Jimenez
+
 2.26.0 (2023-10-03)
 -------------------
 
