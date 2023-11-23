@@ -2,8 +2,8 @@
 Changelog for package imu_sensor_broadcaster
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+2.26.1 (2023-11-23)
+-------------------
 * Create ParamListener and get parameters on configure for IMU sensor
   broadcaster
   fix: Create ParamListener and get params on configura imu sensor broadcaster
